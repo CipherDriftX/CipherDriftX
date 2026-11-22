@@ -33,7 +33,3 @@ Where I want to end up: drones that carry people, take off from anywhere and fly
 ## Contact
 
 [aryanhaghighi.com](https://www.aryanhaghighi.com) · [LinkedIn](https://www.linkedin.com/in/aryan-haghighi-24b779304/) · [aryan@aryanhaghighi.com](mailto:aryan@aryanhaghighi.com)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,30:0d2137,60:0a3d4a,100:0d1117&height=100&section=footer&reversal=true"/>
