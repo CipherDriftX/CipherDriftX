@@ -18,7 +18,7 @@
 
 ---
 
-AI engineer in Istanbul. I build AI agents that run in production, and the evals that show whether they work. I'm also building autonomous drones.
+AI engineer. I build AI agents that run in production, and the evals that show whether they work. I'm also building autonomous drones.
 
 I wrote my first code at 8. At school in Tehran I got into robots, won FarzCup with my team (an inter-school robotics competition run by SAMPAD) and went on to RoboCup IranOpen. I taught myself AI after that. Now I study AI engineering at Bahçeşehir University.
 
@@ -27,8 +27,6 @@ I wrote my first code at 8. At school in Tehran I got into robots, won FarzCup w
 - AI agents with evals built from real cases. When a prompt or model change makes an agent worse, the evals catch it before users do.
 - Research on world models for fast drones: how a drone at high speed can see another aircraft early enough to get out of its way.
 - Up next is my own quadcopter. First a flight controller in simulation, then a small real quad, then a neural network that flies it.
-
-Where I want to end up: drones that carry people, take off from anywhere and fly themselves.
 
 ## Contact
 
