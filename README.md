@@ -30,4 +30,4 @@ I wrote my first code at 8. At school in Tehran I got into robots, won FarzCup w
 
 ## Contact
 
-[aryanhaghighi.com](https://www.aryanhaghighi.com) · [LinkedIn](https://www.linkedin.com/in/aryan-haghighi-24b779304/) · [aryan@aryanhaghighi.com](mailto:aryan@aryanhaghighi.com)
+[aryanhaghighi.com](https://www.aryanhaghighi.com) · [LinkedIn](https://www.linkedin.com/in/aryan-haghighi-24b779304/) · [X](https://x.com/aryanhgh) · [aryan@aryanhaghighi.com](mailto:aryan@aryanhaghighi.com)
